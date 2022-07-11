@@ -1,2 +1,2 @@
-# Criando-seu-Primeiro-Reposit-rio-com-o-DIO-no-GitHub
+# Criando-meu-Primeiro-Reposit-rio-com-o-DIO-no-GitHub
 Desafio I DIO
